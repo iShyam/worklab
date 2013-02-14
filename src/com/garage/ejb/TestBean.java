@@ -13,7 +13,7 @@ import javax.ejb.Stateless;
 
 public  class TestBean { 
 	public String echo(String str) {
-		System.out.println("====== STATELESS SESSION BEAN ===== " + str);
+		System.out.println("====== YE:S STATELESS SESSION BEAN ===== " + str);
 		return str;
 	} 
 }
